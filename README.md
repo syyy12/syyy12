@@ -95,5 +95,19 @@ data class AboutMe(
     <li><strong>Docker:</strong> 컨테이너화를 통해 시스템을 Docker로 배포하고, 다양한 환경에서 구동 실습 진행</li>
   </ul>
 </div>
+<div>
+  <h4>비트코인 투자 AI 시스템</h4>
+  <p><strong>기간:</strong> 2023.09.15 ~ 2023.09.30</p>
+  <p><strong>팀 구성:</strong> 1명</p>
+  <p><strong>링크:</strong> <a href="https://github.com/syyy12/Bitcoin_Investment_AI" target="_blank">GitHub Repository</a></p>
+  <p><strong>프로젝트 설명:</strong><br>
+    비트코인 투자 AI 코드를 개발하고, 실전 투자 실험을 진행한 프로젝트입니다. 
+    Python 클론 코딩을 통해 다양한 라이브러리를 경험하며 프로그래밍에 대한 견문을 넓혔습니다.
+  </p>
+  <ul>
+    <li><strong>Python:</strong> 클론 코딩을 통해 AI 알고리즘 구현 및 투자 실험 진행</li>
+    <li><strong>라이브러리 활용:</strong> 다양한 Python 라이브러리를 활용하며 기술적 경험을 쌓음</li>
+  </ul>
+</div>
 
 
