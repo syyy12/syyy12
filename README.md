@@ -59,4 +59,25 @@ data class AboutMe(
     val interests: List<String> = listOf("Backend Development", "Serverless Architecture", "Docker"),
     val funFact: String = "I believe there are always better ways to solve a problem!"
 )
+```
+<h3 align="left">Projects:</h3>
+<div>
+  <h4>프로젝트 관리 시스템</h4>
+  <p><strong>기간:</strong> 2024.07.01 ~ 2024.12.31</p>
+  <p><strong>팀 구성:</strong> 4명</p>
+  <p><strong>링크:</strong> <a href="https://github.com/syyy12/Project_management_system" target="_blank">GitHub Repository</a></p>
+  <p><strong>프로젝트 설명:</strong><br>
+    기업, 팀장, 직원들이 프로젝트를 더욱 손쉽게 관리할 수 있도록 설계된 시스템입니다. 
+    변경 내용, 게시글, 알림, 진행도 등의 기능을 제공하여 업무 효율성을 높였습니다.
+  </p>
+  <ul>
+    <li><strong>MySQL:</strong> 관계형 데이터베이스를 설계하고, 프로젝트 관련 데이터를 관리하기 위해 MySQL 심화 개념을 활용했습니다.</li>
+    <li><strong>PHP:</strong> 
+      <ul>
+        <li>프로젝트 업무 내용과 담당자 정보를 표시하는 기능 구현</li>
+        <li>변경 내용을 저장 및 추적할 수 있는 시스템 설계</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
