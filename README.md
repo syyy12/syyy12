@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Dong-ha</h1>
-<h3 align="center">I am looking for a professional backend developer</h3>
+<h3 align="center">Welcome to my page I am a professional backend developer and I want to grow and learn more about DevOps courses based on this.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syyy12&label=Profile%20views&color=0e75b6&style=flat" alt="syyy12" /> </p>
 
