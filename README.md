@@ -53,5 +53,3 @@ data class AboutMe(
     val funFact: String = "I believe there are always better ways to solve a problem!"
 )
 
-val me = AboutMe()
-println(me)
