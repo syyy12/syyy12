@@ -80,4 +80,20 @@ data class AboutMe(
     </li>
   </ul>
 </div>
+<div>
+  <h4>프로젝트 관리 시스템 배포 및 환경 구축</h4>
+  <p><strong>기간:</strong> 2024.11.31 ~ 2024.01.31</p>
+  <p><strong>팀 구성:</strong> 1명</p>
+  <p><strong>링크:</strong> (추후 추가 예정)</p>
+  <p><strong>프로젝트 설명:</strong><br>
+    프로젝트 관리 시스템을 Kotlin과 Spring 기반으로 재구현하여 MySQL과 연동, 구동 후 컨테이너화를 통해 Docker에 업로드했습니다. 
+    다양한 환경에서의 구동 실습을 진행하며 배포 및 환경 구축 능력을 강화한 프로젝트입니다.
+  </p>
+  <ul>
+    <li><strong>Kotlin & Spring:</strong> 프로젝트 관리 시스템의 백엔드 로직을 Kotlin과 Spring 기반으로 설계 및 구현</li>
+    <li><strong>MySQL:</strong> 데이터베이스 연동 및 데이터 관리 기능 설계</li>
+    <li><strong>Docker:</strong> 컨테이너화를 통해 시스템을 Docker로 배포하고, 다양한 환경에서 구동 실습 진행</li>
+  </ul>
+</div>
+
 
