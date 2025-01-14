@@ -55,7 +55,7 @@
 data class AboutMe(
     val name: String = "Kim Dong-ha",
     val pronouns: String = "He / Him",
-    val languages: List<String> = listOf("Kotlin", "Python", "C++", "PHP"),
+    val languages: List<String> = listOf("Kotlin", "C", "C++", "PHP" , "MATHLAB"),
     val interests: List<String> = listOf("Backend Development", "Serverless Architecture", "Docker"),
     val funFact: String = "I believe there are always better ways to solve a problem!"
 )
