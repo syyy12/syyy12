@@ -64,7 +64,7 @@ data class AboutMe(
 <div>
   <h4>프로젝트 관리 시스템</h4>
   <p><strong>기간:</strong> 2024.07.01 ~ 2024.12.31</p>
-  <p><strong>팀 구성:</strong> 4명</p>
+  <p><strong>팀 구성:</strong> 4명 - (맡은 업무 : 전체 테이블 구상 및 php 코드 , 보안성 강화 , 다양한 조건<날짜 시간 로그인 등> 설정 )</p>
   <p><strong>링크:</strong> <a href="https://github.com/syyy12/Project_management_system" target="_blank">GitHub Repository</a></p>
   <p><strong>프로젝트 설명:</strong><br>
     기업, 팀장, 직원들이 프로젝트를 더욱 손쉽게 관리할 수 있도록 설계된 시스템입니다. 
