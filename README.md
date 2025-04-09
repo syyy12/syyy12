@@ -1,64 +1,52 @@
 <h1 align="center">Hi 👋, I'm Kim Dong-ha</h1>
-<h4 align="center">Welcome to my page I am a professional backend developer and I want to grow and learn more about DevOps courses based on this.</h4>
+<h4 align="center">I'm a backend developer with a strong passion for DevOps and scalable systems.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syyy12&label=Profile%20views&color=0e75b6&style=flat" alt="syyy12" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/d_ha51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_ha51" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syyy12&label=Profile%20views&color=0e75b6&style=flat" alt="syyy12" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<h4 align="left">💪 Strong</h4>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+### 📬 Connect with Me
+<a href="https://instagram.com/d_ha51" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
 </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>  
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 💪 Strong
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-<h4 align="left">📖 Knowledgeable</h4>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-</a>     
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>  
+#### 📖 Knowledgeable
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
 </p>
 
+---
 
-<h3 align="left">A little more about me in Kotlin:</h3>
+### 👨‍💻 A Little About Me (in Kotlin)
 
 ```kotlin
 data class AboutMe(
     val name: String = "Kim Dong-ha",
     val pronouns: String = "He / Him",
-    val languages: List<String> = listOf("Kotlin", "C", "C++", "PHP" , "MATHLAB"),
+    val languages: List<String> = listOf("Kotlin", "C", "C++", "PHP", "MATLAB"),
     val interests: List<String> = listOf("Backend Development", "Serverless Architecture", "Docker"),
     val funFact: String = "I believe there are always better ways to solve a problem!"
 )
+
 ```
 <h3 align="left">🗂️ Projects</h3>
 
@@ -86,7 +74,7 @@ data class AboutMe(
 <hr>
 
 <h4 style="color: #1E90FF;">🚀 프로젝트 관리 시스템 배포 및 환경 구축</h4>
-<p><strong>기간:</strong> 2024.11.31 ~ 2025.01.31</p>
+<p><strong>기간:</strong> 2024.11.30 ~ 2025.01.31</p>
 <p><strong>팀 구성:</strong> 1명</p>
 <p><strong>링크:</strong> <a href="https://github.com/syyy12/Kotlin_programming" target="_blank">GitHub Repository</a></p>
 <p><strong>프로젝트 설명:</strong><br>
