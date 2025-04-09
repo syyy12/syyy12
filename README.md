@@ -74,7 +74,7 @@ data class AboutMe(
 변경 이력, 게시판, 알림, 진행도 기능을 통해 업무 효율성을 높였습니다.
 </p>
 <ul>
-  <li><strong>MySQL:</strong> 관계형 DB 설계 및 심화 개념 활용</li>
+  <li><strong>MySQL:</strong> 관계형 DB 설계 및 심화 개념 활용</li>             
   <li><strong>PHP:</strong> 
     <ul>
       <li>업무 및 담당자 정보 출력 기능</li>
@@ -88,7 +88,7 @@ data class AboutMe(
 <h4 style="color: #1E90FF;">🚀 프로젝트 관리 시스템 배포 및 환경 구축</h4>
 <p><strong>기간:</strong> 2024.11.31 ~ 2025.01.31</p>
 <p><strong>팀 구성:</strong> 1명</p>
-<p><strong>링크:</strong> (추후 추가 예정)</p>
+<p><strong>링크:</strong> <a href="https://github.com/syyy12/Kotlin_programming" target="_blank">GitHub Repository</a></p>
 <p><strong>프로젝트 설명:</strong><br>
 PHP 기반 프로젝트 관리 시스템을 Kotlin + Spring으로 재구현하여  
 MySQL 연동, Docker 컨테이너화, 다중 환경 배포 테스트를 수행했습니다.
